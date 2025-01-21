@@ -91,17 +91,5 @@ Resumes matching the job requirements:
 
 ---
 
-## 📚 License
-This project is licensed under the MIT License. Feel free to use and modify it.
-
----
-
-## 🙏 Acknowledgments
-Thanks to:
-- [Scikit-learn](https://scikit-learn.org/) for powerful machine learning tools.
-- OpenAI for inspiring NLP projects.
-
----
-
 ## 📢 Feedback
 We welcome contributions and suggestions! Feel free to open issues or submit pull requests.
